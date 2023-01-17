@@ -1,0 +1,21 @@
+{
+  "name": "cagm",
+  "version": "1.0.0",
+  "description": "chinese agama",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accelon/cagm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accelon/cagm/issues"
+  },
+  "homepage": "https://github.com/accelon/cagm#readme"
+}
